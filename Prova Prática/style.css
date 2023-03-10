@@ -1,0 +1,17 @@
+.container{
+    width: 1920;
+    text-align: center;
+    background-color: #345a5f;
+
+ }
+ .nav{
+    padding: 1px;
+ }
+ article{
+    padding: 0.8rem;
+    background-color: #345a5f ;
+    color: white;
+ }
+ footer p{
+    color: white;
+}
